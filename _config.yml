@@ -1,0 +1,13 @@
+title: Ray Douglass
+author: ''
+email: ray@raydouglass.com
+description: ''
+baseurl: ""
+url: "https://raydouglass.com"
+twitter_username: raydouglass3
+github_username:  raydouglass
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
